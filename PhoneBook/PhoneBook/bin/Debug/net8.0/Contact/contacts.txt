@@ -1,0 +1,7 @@
+[
+  {
+    "Name": "Sanan",
+    "PhoneNumber": "+994557319826",
+    "Email": "sanan@gmail.com"
+  }
+]
